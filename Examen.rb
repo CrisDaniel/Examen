@@ -3,4 +3,4 @@ def number(num)
     return num
 end
 
-print number(6)
+print number(68)
